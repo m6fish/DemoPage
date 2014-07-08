@@ -1,7 +1,7 @@
 DemoPage
 ========
 
-The contents table to my all samples.
+The contents table to my all practices/samples.
 
 ##Structures##
 
@@ -34,3 +34,8 @@ The contents table to my all samples.
 * v1.jCarousel sample
 * v2.[自動+循環播放](http://m6fish.github.io/SildeShow_Sample/sample2/demo.htm)
 * v3.[滿版設計+自動+循環撥放](http://m6fish.github.io/SildeShow_Sample/sample3/demo.htm)
+
+
+
+###效果資源區###
+ 
