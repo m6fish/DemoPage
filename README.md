@@ -29,6 +29,9 @@ The contents table to my all practices/samples.
 * v3.[切版練習(3列式+頭尾滿版+橫向選單)](http://m6fish.github.io/CssSample/index3.html)
 * v4.[滿版設計(+遮色片)](http://m6fish.github.io/CssSample/index4.html)
 * v5.[伸縮圖片特效](http://m6fish.github.io/CssSample/index5.html)
+ 
+ 
+> Css語法筆記: [常用&實用語法整理](http://m6fish.github.io/CssSample/css%E8%AA%9E%E6%B3%95%E7%AD%86%E8%A8%98.txt)
 
 ###幻燈片廣告效果 : SildShow_Sample###
 
