@@ -9,6 +9,7 @@ The contents table to my all practices/samples.
         |-CssSample
         |-stepForm
         |-SildShow_Sample
+        |-Calculator
        └ ...
     -back-end
         |-NewBoard
@@ -39,7 +40,9 @@ The contents table to my all practices/samples.
 * v2.[自動+循環播放](http://m6fish.github.io/SildeShow_Sample/sample2/demo.htm)
 * v3.[滿版設計+自動+循環撥放](http://m6fish.github.io/SildeShow_Sample/sample3/demo.htm)
 
+###前端計算機 : Calculator###
 
+* v1.[簡單套用](http://m6fish.github.io/Calculator/demo1.html)
 
 ###效果資源區###
  
